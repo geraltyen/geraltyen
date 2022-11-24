@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
+![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm R Giri Reddy</h1>
 <h3 align="center">Dedicated and Hard-working Web Developer Willingly love to work.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*vJjJ3Mdok6Rvxx85IIRqBQ.gif"
@@ -69,7 +69,9 @@
    <br/>   
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraltyen&show_icons=true&locale=en&layout=compact" alt="geraltyen" /></p>
+<br/>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraltyen&show_icons=true&locale=en" alt="geraltyen" /></p>
+<br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&" alt="geraltyen" /></p>
