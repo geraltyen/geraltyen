@@ -11,7 +11,7 @@
 
 - 👯 I have worked collaboratively on [expedia.com](https://github.com/Shubham-Dandekar/expedia.com-clone)
 
-- 👨‍💻 All of my projects are available at [geraltyen.github.io](geraltyen.github.io)
+- 👨‍💻 All of my projects are available at [geraltyen.github.io](https://geraltyen.github.io/)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1RxK-V-6E9p0mzAwldJaFfvc1KocWO04h/view?usp=share_link](https://drive.google.com/file/d/1RxK-V-6E9p0mzAwldJaFfvc1KocWO04h/view?usp=share_link)
 
