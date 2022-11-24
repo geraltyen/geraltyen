@@ -17,6 +17,7 @@
 
 <hr />
 
+<hr/>
 <h3 align="center">Connect with me:</h3>
 
 <div align="center">
@@ -31,6 +32,7 @@
                                                                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="girireddyanna" height="30" width="40" style="margin-bottom: 5px;" /></a>
 
 </div>
+<hr/>
 
 ## 🚀 Languages and Tools:
 <div align="center">
@@ -75,3 +77,6 @@
 <br/>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&" alt="geraltyen" /></p>
+
+<img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/4692263-Arnold-Schwarzenegger-Quote-The-wolf-on-the-hill-is-not-as-hungry.jpg" alt="geraltyen" />
+<h2>No time to Chill Its Either Work or Not Anything At all</h2>
