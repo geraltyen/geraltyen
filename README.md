@@ -23,7 +23,7 @@
 
 <a href="https://linkedin.com/in/giri-reddy-geralt" target="blank">
                                                                   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri-reddy-geralt" height="30" width="40" style="margin-bottom: 5px;" /></a>
-<a href="https://fb.com/r giri reddy" target="blank">
+<a href="https://fb.com/greystarktony" target="blank">
                                                     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r giri reddy" height="30" width="40" style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/rick_yenn" target="blank">
                                                         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick_yenn" height="30" width="40" style="margin-bottom: 5px;" /></a>
