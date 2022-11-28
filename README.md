@@ -79,4 +79,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&" alt="geraltyen" /></p>
 
 <img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/4692263-Arnold-Schwarzenegger-Quote-The-wolf-on-the-hill-is-not-as-hungry.jpg" alt="geraltyen" />
-<h2>No time to Chill Its Either Work or Nothing At all</h2>
+<h2 align="center">No time to Chill Its Either Work or Nothing At all</h2>
