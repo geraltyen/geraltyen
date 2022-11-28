@@ -81,8 +81,25 @@
   
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen" alt="geraltyen" /></p>
+ <p align="center">      
+  <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geraltyen&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+      </p>      
+     <br/>
+   <p align="center">
+    <a href="https://github.com/geraltyen/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+    </a>
+</p>                                                                                                                                              
 
+  <br/>
+  <br/>
+     <p align="center">                                                                                                 
+    <a href="https://github.com/vaibhav-mougha/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=geraltyen&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="" /></a>
+    </p>
+<a href="https://github.com/vaibhav-mougha/github-readme-activity-graph"><img alt="vaibhav-mougha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geraltyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
 <img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/4692263-Arnold-Schwarzenegger-Quote-The-wolf-on-the-hill-is-not-as-hungry.jpg" alt="geraltyen" />
+
 <!-- <h2 align="center">No time to Chill Its Either Work or Nothing At all</h2> -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=joker+man&size=30&pause=1000&color=2EDBF7&background=BEFAFF00&multiline=true&width=900&height=200&lines=No+time+to+Chill+Its+Either+Work+or+Nothing+At+All" alt="Typing SVG" /></a>
