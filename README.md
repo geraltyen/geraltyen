@@ -66,17 +66,23 @@
 </div>
 
 <hr />
+ <h1 align="center">INTERESTS</h1>
+   <ul>
+  <li>I love to read Mostly about finances like (richest man in babylon,Dr. van k Tharp Super Trader etc)</li>
+    <li>I Like to create animations and have learned Blender basics</li>
+    <li>I am interested in creating good user-interfaces,animated to be specific</li>
+    
+   </ul>
+   
+   <br/>
 
 ## 📊 My Github Stats
    <br/>   
+  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geraltyen&show_icons=true&locale=en&layout=compact" alt="geraltyen" /></p>
-<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geraltyen&show_icons=true&locale=en" alt="geraltyen" /></p>
-<br/>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&" alt="geraltyen" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen" alt="geraltyen" /></p>
 
 <img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/4692263-Arnold-Schwarzenegger-Quote-The-wolf-on-the-hill-is-not-as-hungry.jpg" alt="geraltyen" />
-<h2 align="center">No time to Chill Its Either Work or Nothing At all</h2>
+<!-- <h2 align="center">No time to Chill Its Either Work or Nothing At all</h2> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=joker+man&size=30&pause=1000&color=2EDBF7&background=BEFAFF00&multiline=true&width=900&height=200&lines=No+time+to+Chill+Its+Either+Work+or+Nothing+At+All" alt="Typing SVG" /></a>
