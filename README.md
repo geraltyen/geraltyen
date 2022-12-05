@@ -96,7 +96,7 @@
      <p align="center">                                                                                                 
     <a href="https://github.com/geraltyen/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=geraltyen&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="" /></a>
     </p>
-<a href="https://github.com/geraltyen/github-readme-activity-graph"><img alt="vaibhav-mougha Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geraltyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/geraltyen/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geraltyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/4692263-Arnold-Schwarzenegger-Quote-The-wolf-on-the-hill-is-not-as-hungry.jpg" alt="geraltyen" />
