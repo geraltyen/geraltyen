@@ -23,13 +23,13 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/giri-reddy-geralt" target="blank">
-                                                                  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giri-reddy-geralt" height="30" width="40" style="margin-bottom: 5px;" /></a>
+                                                                  <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_14-linkedin-64.png" alt="giri-reddy-geralt" height="45" width="45" style="margin-bottom: 5px;" /></a>
 <a href="https://fb.com/greystarktony" target="blank">
-                                                    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="r giri reddy" height="30" width="40" style="margin-bottom: 5px;" /></a>
+                                                    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-facebook-square2-64.png" alt="r giri reddy" height="45" width="45" style="margin-bottom: 5px;" /></a>
 <a href="https://instagram.com/rick_yenn" target="blank">
-                                                        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rick_yenn" height="30" width="40" style="margin-bottom: 5px;" /></a>
+                                                        <img align="center" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-64.png" alt="rick_yenn" height="45" width="45" style="margin-bottom: 5px;" /></a>
 <a href="https://www.hackerrank.com/girireddyanna" target="blank">
-                                                                 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="girireddyanna" height="30" width="40" style="margin-bottom: 5px;" /></a>
+                                                                 <img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-64.png" alt="girireddyanna" height="45" width="45" style="margin-bottom: 5px;" /></a>
 
 </div>
 <hr/>
@@ -91,16 +91,16 @@
      <br/>
    <p align="center">
     <a href="https://github.com/geraltyen/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt=" streak" src="https://github-readme-streak-stats.herokuapp.com/?user=geraltyen&hide_border=true&theme=midnight-purple&hide_border=true&bg_color=0D1117"/>
     </a>
 </p>                                                                                                                                              
 
   <br/>
   <br/>
      <p align="center">                                                                                                 
-    <a href="https://github.com/geraltyen/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=geraltyen&show_icons=true&locale=en&theme=react&hide_border=true&bg_color=0D1117" alt="" /></a>
+    <a href="https://github.com/geraltyen/github-readme-stats"><img alt=" Github Stats" src="https://github-readme-stats.vercel.app/api?username=geraltyen&show_icons=true&locale=en&theme=midnight-purple&hide_border=true&bg_color=0D1117" alt="" /></a>
     </p>
-<a href="https://github.com/geraltyen/github-readme-activity-graph"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=geraltyen&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <img align="center" src="https://quotefancy.com/media/wallpaper/3840x2160/4692263-Arnold-Schwarzenegger-Quote-The-wolf-on-the-hill-is-not-as-hungry.jpg" alt="geraltyen" />
