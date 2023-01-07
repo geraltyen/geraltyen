@@ -13,7 +13,7 @@
 
 - 👨‍💻 You can Check out my Portfolio [geraltyen.github.io](https://geraltyen.github.io/)
 
-- 📄 This is My Resume [https://drive.google.com/file/d/1RxK-V-6E9p0mzAwldJaFfvc1KocWO04h/view?usp=share_link](https://drive.google.com/file/d/1RxK-V-6E9p0mzAwldJaFfvc1KocWO04h/view?usp=share_link)
+- 📄 This is My Resume [https://drive.google.com/file/d/1RxK-V-6E9p0mzAwldJaFfvc1KocWO04h/view?usp=share_link](https://drive.google.com/file/d/18Lv83gxFAq4d4EWxGFproS_ju1DTpYey/view?usp=share_link)
 
 <hr />
 
